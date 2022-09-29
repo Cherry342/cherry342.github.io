@@ -4,14 +4,22 @@
  body{
         font-family: 'Roboto' , sans-serif;
         background-color: #37E2D5;
-        color: #C70A80;
-        color: #590696;
-        color: #FBCB0A;
+        
+        
+       
  
     }
 
-h1, h2, h3, h4 { 
+h1 { 
     font-family: 'Anna Okage Jasmin' , sans-serif;
     font-weight: 500'
-    
+    color: #C70A80;
+}
+h2, {
+    font-family:'Hello World', sans-serif;
+    font-weight: 500'
+    color: #590696
+} 
+h3, {font-family: 'Harvey Irma Maria Nate', sans-serif;
+
 }
