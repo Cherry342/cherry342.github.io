@@ -3,22 +3,23 @@
  
  body{
         font-family: 'Roboto' , sans-serif;
-        background-color: #ec0c96;
-        color:#550a8b
+        background-color: #e70a9d;
+        color:#aa48f0
 
         
        
  
     }
 
-    a :link{
-        color:#3392ff
+    a:link {
+        text-decoration: #ff0edb;
       }
+      
       a:visited {
-        color:#ffad33;
-        
-        a:hover{
-            color: #3399ff;
+       background-color:#fceb00 ;
+      }
+        a:hover {
+            color: 
           }
           a:active {
             color: #33ccff
