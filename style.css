@@ -1,5 +1,17 @@
  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-    body{
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+ 
+ body{
         font-family: 'Roboto' , sans-serif;
+        background-color: springgreen;
     }
 
+h1, { 
+    font-family: 'Anna Okage Jasmin' , sans-serif;
+    font-weight: 500'
+    d-color: pink;
+}
+h2, {
+    font-family: 'Hello World' , sans-serif;
+    font-weight: 600'
+}
