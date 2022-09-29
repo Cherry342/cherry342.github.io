@@ -3,24 +3,23 @@
  
  body{
         font-family: 'Roboto' , sans-serif;
-        background-color: #C70A80;
-        color:#54008f
+        background-color: #ec0c96;
+        color:#550a8b
 
         
        
  
     }
 
-h1 { 
-    font-family: 'Anna Okage Jasmin' , sans-serif;
-    font-weight: 500'
-    color: #C70A80;
-}
-h2, {
-    font-family:'Hello World', sans-serif;
-    font-weight: 500'
-    color: #590696
-} 
-h3, {font-family: 'Harvey Irma Maria Nate', sans-serif;
-
-}
+    a :link{
+        color:#8533ff
+      }
+      a:visited {
+        color:#ff3399;
+        
+        a:hover{
+            color: #3399ff;
+          }
+          a:active {
+            color: #33ccff
+          }
