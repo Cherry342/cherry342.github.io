@@ -3,7 +3,7 @@
  
  body{
         font-family: 'Roboto' , sans-serif;
-        background-color: #e70a9d;
+        background-color: #ff94cf;
         color:#260033
 
         
@@ -12,11 +12,11 @@
     }
 
     a:link {
-        text-decoration: #ff0edb;
+        text-decoration: #03ff64;
       }
       
       a:visited {
-       background-color:#fceb00 ;
+       background-color:#fc9300 ;
       }
         a:hover {
             color: 
