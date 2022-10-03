@@ -50,3 +50,7 @@
         background-color:#c40052;
         
     }
+    .round
+    {
+        border-radius: 50%
+    }
