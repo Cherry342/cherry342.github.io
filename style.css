@@ -6,7 +6,7 @@
         background-color: #3f009f;
         color:#ff088c;
         max-width: 600px;
-        margin: 0 64px;
+        margin: 0 auto;
         
        
  
@@ -51,7 +51,7 @@
         background-color:#c40052;
         
     }
-    .round
+     .round
     {
-        border-radius: 50
+        border-radius: 100
     }
