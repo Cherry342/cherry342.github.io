@@ -11,7 +11,8 @@
  
     }
      main {
-        max-width: 760px;
+        max-width: 768px;
+        margin:0 auto;
      }
     a:link {
         color: #ff9203;
