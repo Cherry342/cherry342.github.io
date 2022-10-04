@@ -3,9 +3,9 @@
  
  body{
         font-family: 'Roboto' , sans-serif;
-        background-color: #b0006a;
-        color:#31004f
-
+        background-color: #4900b0;
+        color:#ff088c
+        width:600px;
         
        
  
@@ -16,10 +16,10 @@
       }
       
       a:visited {
-       color:#8f004a ;
+       color:#91004b ;
       }
         a:hover {
-            color: #0084ff
+            color: #ffa600
           }
           a:active {
             color: #b20606
@@ -52,5 +52,5 @@
     }
     .round
     {
-        border-radius: 50%
+        border-radius: 50
     }
