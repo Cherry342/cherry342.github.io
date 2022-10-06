@@ -25,7 +25,9 @@
  </div>
  <main>
    <h1>Contact Me</h1>
-   <form>
+   <form action="https://us-central1-steam-center-app-dev.cloudfunctions.net/formToEmail"
+      method="post"
+      >
       <label> Name: </label>
       <input type="text" name="name">
       <br>
@@ -39,12 +41,13 @@
       <input type="text" name="school email">
       <br>
       <label> Anna's Contact Ways:</label>
-      <input type="radio" name="contact_type" value="phone" > Phone-call
+      <input type="radio" name="contact_type" value="phone"> Phone-call
       <input type="radio" name="contact_type" value="email"> Email
       <input type="radio" name="contact_type" value="school_email"> School Email
       <br>
       <input type="submit">
       <input type="reset">
+      <input type="hidden " name="send-to" value="aokagejasmin@brooklynsteamcenter.org" hidden>
    </form>
   
    <div class="center">
