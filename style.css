@@ -45,7 +45,7 @@
         }
 
          #navbar > a {
-          color:#0079ba;
+          color:#fe9900;
           padding: 24px;
           display: inline-block;
          }
@@ -61,6 +61,7 @@
     input[type=submit] {
         background-color: #02faf2;
     }
-    input[type=submit] {
+    input[type=reset] {
         background-color: #12ff01;
     }
+    
