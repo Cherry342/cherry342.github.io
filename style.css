@@ -45,7 +45,7 @@
         }
 
          #navbar > a {
-          color:#07ff38;
+          color:#0079ba;
           padding: 24px;
           display: inline-block;
          }
@@ -56,4 +56,8 @@
      .round
     {
         border-radius: 100
+    }
+
+    input[type=submit] {
+        background-color: #0282fa;
     }
