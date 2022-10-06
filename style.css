@@ -3,8 +3,8 @@
  
     body{
         font-family: 'Roboto' , sans-serif;
-        background-color: #37005e;
-        color:#fa0286;
+        background-color: #6200ff;
+        color:#aa005b;
         margin: 0 ;
         
        
@@ -39,18 +39,18 @@
         font-size 24px;
           }
         #navbar {
-            background-color: rgb(253, 169, 0)
+            background-color: rgb(0, 253, 89)
        color:#0088ff
        
         }
 
          #navbar > a {
-          color:#fe9900;
+          color:#2ffe00;
           padding: 24px;
           display: inline-block;
          }
     #navbar > a:hover {
-        background-color:#c40052;
+        background-color:#59ff00;
         
     }
      .round
@@ -60,8 +60,21 @@
 
     input[type=submit] {
         background-color: #02faf2;
+        border:3px solid #0400ff
     }
     input[type=reset] {
-        background-color: #12ff01;
+        background-color: #16ff01;
+        border:3px solid #01ff9e
+    }
+    input[type=text]:email{
+        background-color:2px solid #ff01a6;
+       border: 4px solid #ff319f}
+    input[type=text]:phone{
+        background-color:rgb(107, 1, 213); 
+        border:#a02bff 4px solid
+    }
+    input[tyoe=text]:school_email{
+        background-color: #ffb700;
+         border: #c45800 4px solid
     }
     
