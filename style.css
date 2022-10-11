@@ -3,7 +3,7 @@
  
     body{
         font-family: 'Roboto' , sans-serif;
-        background-color: #8d00c5;
+        background-color: #5d00a9;
         color:#d8c6ff;
         margin: 0 ;
         
@@ -45,7 +45,7 @@
         }
 
          #navbar > a {
-          color:#dd33ff;
+          color:#a70078;
           padding: 24px;
           display: inline-block;
          }
@@ -59,12 +59,12 @@
     }
 
     input[type=submit] {
-        background-color: #02faf2;
-        border:3px solid #0400ff
+        background-color: #43fff9;
+        border:3px solid #0300cc
     }
     input[type=reset] {
-        background-color: #16ff01;
-        border:3px solid #01ff9e
+        background-color: #00e62a;
+        border:3px solid #00c97c
     }
     input[type=text]:email{
         background-color:2px solid #ff01a6;
