@@ -3,8 +3,8 @@
  
     body{
         font-family: 'Roboto' , sans-serif;
-        background-color: #6600ff;
-        color:#c4a9ff;
+        background-color: #8d00c5;
+        color:#d8c6ff;
         margin: 0 ;
         
        
@@ -45,7 +45,7 @@
         }
 
          #navbar > a {
-          color:#d400fe;
+          color:#dd33ff;
           padding: 24px;
           display: inline-block;
          }
