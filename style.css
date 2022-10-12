@@ -39,7 +39,7 @@
         font-size 24px;
           }
         #navbar {
-            background-color: rgb(255, 157, 0)
+            background-color: rgb(0, 201, 27)
          
        
         }
@@ -59,12 +59,12 @@
     }
 
     input[type=submit] {
-        background-color: #43fff9;
-        border:3px solid #0300cc
+        background-color: #ff00c8;
+        border:3px solid #cc0066
     }
     input[type=reset] {
-        background-color: #00e62a;
-        border:3px solid #00c97c
+        background-color: #c74c00;
+        border:3px solid #ffa149
     }
     input[type=text]:email{
         background-color:2px solid #ff01a6;
