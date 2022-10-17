@@ -86,6 +86,14 @@
     background-color: rgb(0, 51, 254)
     #my_image {
       width: 100vw;
-      height: 100vw
+      height: 120px;
     }
   }
+}
+  #navbar {
+    text-align: center;
+  }
+  #my_image2 {
+  float: none;
+  display: none;
+}
