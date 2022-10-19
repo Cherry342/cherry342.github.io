@@ -3,8 +3,8 @@
  
     body{
         font-family: 'Roboto' , sans-serif;
-        background-color: #270044;
-        color:#eee5ff;
+        background-color: #51008f;
+        color:#ff98dd;
         margin: 0 ;
         
        
@@ -59,8 +59,7 @@
           font-weight: bold;
          }
     #navbar > a:hover {
-      display:inline-block
-        background-color#0600b0;
+        background-color:rgb(220, 20, 207);
         
     }
      .round
@@ -69,7 +68,7 @@
     }
 
     input[type=submit] {
-        background-color:#423cff;
+        background-color:#02eeff;
         border:3px solid #0077ff;
     }
     input[type=reset] {
@@ -80,7 +79,7 @@
         background-color:2px solid rgb(255, 0, 72);
        border: 4px solid #6f003b}
     input[type=phone] {
-        background-color:rgb(107, 1, 213); 
+        background-color:#8d03ff; 
         border:#a02bff 3px solid;
     }
     input[type=school_email]{
