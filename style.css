@@ -38,19 +38,32 @@
         font-weight:bold
         font-size 24px;
           }
+          #portrait {
+            float: left;
+            margin-right: 8px;
+            border-radius: 10%;
+            position: fixed;
+            top: 0;
+          }
+          
         #navbar {
             background-color: rgb(0, 201, 27)
-         
-       
+          color: redviolet
+            postion: sticky
+            left: 0;
+            font-weight:
         }
 
          #navbar > a {
           color:#03fff2;
           padding: 24px;
           display: inline-block;
+          text-decoration: none;
+          font-weight: bold;
          }
     #navbar > a:hover {
-        background-color:#0600b0;
+      display:inline-block
+        background-color#0600b0;
         
     }
      .round
@@ -81,6 +94,7 @@
         background-color: rgb(0, 255, 0);
         border:#00ff84 5px solid
     }
+    
 @media screen and (max-width: 480px) {
 
     #my_image {
