@@ -19,13 +19,13 @@
       }
       
       a:visited {
-       color:#00d845 ;
+       color:#00d845;
       }
         a:hover {
-            color: #ff00d9
+            color: #ff00d9;
           }
           a:active {
-            color: #6200ff
+            color: #6200ff;
           }
           
           #header {
