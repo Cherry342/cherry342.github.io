@@ -15,14 +15,14 @@
         margin:0 auto;
      }
     a:link {
-        color: #0095ff
+        color: #ff00b3
       }
       
       a:visited {
-       color:#00d845;
+       color:#006eff;
       }
         a:hover {
-            color: #ff0084
+            color: #8900c3
           }
           a:active {
             color: #6200ff
