@@ -15,21 +15,21 @@
         margin:0 auto;
      }
     a:link {
-        color: #0d00ff;
+        color: #0095ff
       }
       
       a:visited {
        color:#00d845;
       }
         a:hover {
-            color: #ff00d9;
+            color: #ff0084
           }
           a:active {
-            color: #6200ff;
+            color: #6200ff
           }
           
           #header {
-            text-align:center; background-color: rgb(0, 140, 255);
+            text-align:center; background-color: rgb(0, 0, 255);
             color:#00ff5e
           }
           .float-right{
