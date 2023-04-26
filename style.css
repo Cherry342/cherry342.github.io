@@ -69,11 +69,11 @@
     }
        
     input[type=submit] {
-        background-color:#00fd08;
+        background-color:#00fd76;
         border:3px solid #008120;
     }
     input[type=reset] {
-        background-color: #ff0000;
+        background-color: #e30000;
         border:3px solid #810000
     }
     input[type=email]{
