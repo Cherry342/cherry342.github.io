@@ -4,7 +4,7 @@
     body{
         font-family: 'Roboto' , sans-serif;
         background-color: rgb(217, 0, 145);
-        color:#47007a;
+        color:#35005a;
         margin: 0 ;
         
        
@@ -19,7 +19,7 @@
       }
       
       a:visited {
-       color:#006eff;
+       color:#00bfff;
       }
         a:hover {
             color: #8900c3
@@ -48,7 +48,7 @@
           }
           
         #navbar {
-            background-color: rgb(29, 0, 250)
+            background-color: rgb(0, 175, 250)
         
         }
 
